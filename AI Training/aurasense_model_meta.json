@@ -5,7 +5,8 @@
   "model_source": "tuned_model",
   "framework": "scikit-learn",
   "pipeline_steps": [
-    "prep"
+    "prep",
+    "clf"
   ],
   "features_expected": [
     "HR",
