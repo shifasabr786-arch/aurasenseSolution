@@ -1,2 +1,1 @@
 # aurasenseSolution
-# tech-stack
