@@ -1,3 +1,3 @@
 # API
 
-## Website Used - Vercel to host the API endpointer
+## Website Used - Vercel to host the API endpoint
