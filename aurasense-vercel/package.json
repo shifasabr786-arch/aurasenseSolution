@@ -1,0 +1,9 @@
+{
+  "name": "aurasense-vercel-brain",
+  "version": "1.0.0",
+  "description": "Connects ESP32 to Render API and Firestore",
+  "main": "api/index.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
